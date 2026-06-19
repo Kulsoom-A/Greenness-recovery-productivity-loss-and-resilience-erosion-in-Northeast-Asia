@@ -41,4 +41,3 @@ The current source data remain in `../Datasets` and include:
 - Vegetation/productivity rasters: annual `kNDVI`, annual `NDVI`, NDVI trend/Sen outputs, MOD17 annual `GPP`, and MOD17 annual `NPP`.
 - Land-cover mask: `LC5_forest_1to6_2024_NEA_0p1deg.tif`.
 
-Keep `../Datasets` as the master raw-data location. Copy or derive objective-specific working files into the relevant objective folder only when needed.
