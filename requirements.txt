@@ -1,0 +1,22 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+# Geospatial raster and vector I/O
+rasterio
+rioxarray
+xarray
+geopandas
+shapely
+pyproj
+# Machine learning / driver analysis
+scikit-learn
+# Plotting
+matplotlib
+# Google Earth Engine (only needed for download_*_gee.py scripts)
+earthengine-api
+geemap
+# Document assembly (manuscript_scripts)
+python-docx
+# Notebook support
+jupyter
