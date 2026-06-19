@@ -55,4 +55,4 @@ A permanent archive of the processed outputs (for example a Zenodo deposit) can 
 created at acceptance and its DOI added to this file and to the manuscript's data
 availability statement.
 
-> Placeholder for archive link: add the Zenodo/figshare DOI here once minted.
+> Zenodo/figshare DOI.
